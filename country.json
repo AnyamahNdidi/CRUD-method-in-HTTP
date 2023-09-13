@@ -1,0 +1,53 @@
+[
+  {
+    "Name": "Argentina",
+    "Capital": "Buenos Aires",
+    "President": "Alberto Fernandez"
+  },
+  {
+    "Name": "Australia",
+    "Capital": "Canberra",
+    "President": "Alexander Van der Bellen"
+  },
+  {
+    "Name": "Barbados",
+    "Capital": "Bridgetown",
+    "President": "Sandra Mason"
+  },
+  {
+    "Name": "Brazil",
+    "Capital": "Brasilla",
+    "President": "Luiz Inacio Lula Da Silva",
+    "id": "VERAC1mfhgHe"
+  },
+  {
+    "Name": "Cameroon",
+    "Capital": "Yoaounde",
+    "President": "Paul Biya",
+    "id": "VERAF1bJebjD"
+  },
+  {
+    "Name": "Canada",
+    "Capital": "Otawa",
+    "President": "Mary Simon",
+    "id": "VERAeGEL93P2"
+  },
+  {
+    "Name": "China",
+    "Capital": "Beijing",
+    "President": "Xi jinping",
+    "id": "VERAy1Gljg8F"
+  },
+  {
+    "Name": "China",
+    "Capital": "Beijing",
+    "President": "Xi jinping",
+    "id": "VERAz8LkoLD5"
+  },
+  {
+    "Name": "Canada",
+    "Capital": "Beijing",
+    "President": "Bola Tinubu",
+    "id": "VERAx4lpgyY2"
+  }
+]
